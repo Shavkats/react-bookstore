@@ -7,8 +7,6 @@ Simple online bookstore application with home page with book images (links to Am
 ### Try it out
 https://shavkats.github.io/react-bookstore/
 
-<img src="https://j.gifs.com/71oY4y.gif" width="900" height="400" />
-
 ## Code Description
 Online "IT Bookstore" developed with ReactJS, HTML, and CSS using Visual Studio Code
 
